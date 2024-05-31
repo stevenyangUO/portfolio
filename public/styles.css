@@ -1,0 +1,24 @@
+/* Body Backgroud Colour */
+body{
+	background-color: #2f2e2e;
+	color: #e0e0e0;
+	margin: 1em;
+}
+
+nav > ul {
+    list-style-type: none;
+    margin: 0 0 25px;
+    padding: 0;
+}
+
+nav > ul > li {
+    font-size: large;
+	display: inline;
+}
+
+nav > a {
+	color: red;
+    text-decoration: none;
+	
+}
+
