@@ -1,1 +1,1 @@
-This repository holds the portfolio repository for Steven Yang student ID 300250780 labs for the CSI 3140 course. All files pertain to the various lab requirements for this course during the Spring/Summer 2024 term, beginning May 2, 2024.
+This repository holds the portfolio repository for Steven Yang student ID 300250780 for the CSI 3140 course. All files pertain to the various requirements for this course during the Spring/Summer 2024 term, beginning May 2, 2024.
