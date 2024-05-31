@@ -16,8 +16,8 @@ nav > ul > li {
 	display: inline;
 }
 
-nav > a {
-	color: red;
+nav > ul a {
+	color: #e0e0e0;
     text-decoration: none;
 	
 }
